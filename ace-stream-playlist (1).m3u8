@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Widzew [PL] 
-http://192.168.0.10:6878/ace/getstream?infohash=c47fa5a654964c24e28179a1bbd092dc25f8f613&pid=42795
+http://192.168.0.10:6878/ace/getstream?infohash=c47fa5a654964c24e28179a1bbd092dc25f8f613&pid=1
 #EXTINF:-1,.red [RU]
 http://192.168.0.10:6878/ace/getstream?infohash=cd680104166a605ed27730dcaec73bf81221d540&pid=2
 #EXTINF:-1,.sci-fi [RU]
